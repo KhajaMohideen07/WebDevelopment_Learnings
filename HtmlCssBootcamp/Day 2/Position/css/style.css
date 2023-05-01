@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main
+{
+
+    border: 5px solid pink;
+    width: 500px;
+    height:500px;
+    background: aqua;
+    position:relative;
+}
+
+.box
+{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    margin-top: 5px;
+    
+}
+
+.box1{position:absolute;background: red;left:0;}
+.box2{position:absolute;background: blue;left:50px;top:50px}
+.box3{position:absolute;background: green ;left:100px;top:100px;}
+.box4{position:absolute;background: yellow;right:0;}
+
+.box5{background: pink;position:relative;left:220px}
+.box6{background: pink;position:relative;top:100px}

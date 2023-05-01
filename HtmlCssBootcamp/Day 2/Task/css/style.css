@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body
+{
+    color:white
+}
+.container
+{
+    height: 100vh;
+    width: 100vw;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box
+{
+    background-color: aquamarine;
+    height: 350px;
+    width:550px;
+    background-image: url('../images/strawberry.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+   
+}
+
+.box .content
+{
+    background-color: rgba(0, 0, 0, 0.350);
+    position: relative;
+    top:145px;
+    height:50px;
+    text-align: center;
+    line-height: 50px;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
+.box span
+{
+    display: block;
+    position: absolute;
+    right: 0;
+    /* background-color: brown; */
+    height: 20px;
+    width:20px;
+    text-align: center;
+}
+
+span:hover
+{
+    background-color: red;
+    cursor: pointer;
+}
