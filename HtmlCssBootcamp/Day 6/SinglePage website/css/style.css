@@ -36,8 +36,8 @@ section {
     background-color: #e67e22;
 }
 
-#about-us {
-    background-color: #f1c40f;
+#pricing {
+    background-color: #2B2933;
 }
 
 #contact-us {
@@ -49,7 +49,7 @@ section {
 
 #services,
 #products,
-#about-us,
+#pricing,
 #contact-us {
     padding-top: 70px;
 }
@@ -263,12 +263,14 @@ nav ul li a {
     border-radius: 5px;
 }
 
-.card:hover
-{
+.card:hover {
     transform: scale(1.1);
 }
-.img-container1 ,.img-container2,.img-container3,.img-container4
-{
+
+.img-container1,
+.img-container2,
+.img-container3,
+.img-container4 {
     height: 40%;
     display: flex;
     align-items: center;
@@ -280,24 +282,183 @@ nav ul li a {
 }
 
 .img-container2 {
-    background-color:#8e44ad;
+    background-color: #8e44ad;
 }
+
 .img-container3 {
-    background-color:#e67e22;
+    background-color: #e67e22;
 }
+
 .img-container4 {
-    background-color:#2980b9;
+    background-color: #2980b9;
 }
 
 
-.content
-{
+.content {
     padding: 10px;
 }
 
-.content h3{
+.content h3 {
     border-bottom: 1px solid black;
     padding: 10px;
     margin-bottom: 10px;
     text-align: center;
+    text-transform: uppercase;
 }
+
+
+nav li a {
+    position: relative;
+}
+
+nav li a::before {
+    content: "";
+    width: 0%;
+    height: 2px;
+    background-color: yellow;
+    position: absolute;
+    bottom: -2px;
+    border-radius: 10px;
+    transition: all 0.5s ease;
+}
+
+nav li a:hover::before {
+    width: 100%;
+}
+
+nav li.center a::before {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+nav li.up a::before {
+    width: 100%;
+    bottom: -8px;
+    opacity: 0;
+}
+
+nav li.up a:hover::before {
+    bottom: 0;
+    opacity: 1;
+}
+
+nav li.right a::before {
+    width: 100%;
+    transform: scaleX(0);
+    transform-origin: right;
+}
+
+nav li.right a:hover::before {
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+#pricing h2,
+#pricing h2+p {
+    text-align: center;
+}
+
+#pricing h2 {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.price-box-container {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.pricing-box {
+    margin-left: 10px;
+    width: 300px;
+    height: 450px;
+    text-align: center;
+    border-radius: 2px;
+    background-color: white;
+    color: #2B2933;
+}
+
+.pricing-box ul li {
+    list-style: none;
+    text-align: left;
+    text-indent: 20%;
+}
+
+.box-title {
+ height: 35%;
+ color: white;
+}
+
+.pricing-box .t1 {
+    background-color: #573ABA;
+}
+
+.pricing-box .t2 {
+    background-color: #EC6011;
+}
+
+.pricing-box .t3 {
+    background-color: #8FC305;
+}
+
+.box-title h5 {
+    font-size: 18px;
+    padding: 15px;
+    background-color: #2b293336;
+    text-transform: uppercase;
+}
+
+.box-title h3
+{
+    margin-top: 10px;
+    font-size: 30px;
+}
+.box-title h6
+{
+    font-size: 15px;
+}
+
+
+.price-content ul
+{
+    margin-top: 15px;
+   margin-bottom:20px ;
+}
+
+.price-content ul li
+{
+    padding: 5px;
+}
+
+.tick::before
+{
+    content: "\2713";
+    color: green;
+    padding: 5px;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.cancel::before
+{
+    content: "\2716";
+    color: red;
+    padding: 5px;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.price-content a{
+    background-color: #EC6011;
+    text-decoration: none;
+    color:white;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+
+
+.price-content a:hover
+{cursor: pointer;}
