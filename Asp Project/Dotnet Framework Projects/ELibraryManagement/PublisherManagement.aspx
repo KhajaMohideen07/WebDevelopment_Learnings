@@ -76,7 +76,6 @@
                                 <center>
                                     <center>
                                         <h3>Publisher List</h3>
-                                      
                                     </center>
                                 </center>
                             </div>
