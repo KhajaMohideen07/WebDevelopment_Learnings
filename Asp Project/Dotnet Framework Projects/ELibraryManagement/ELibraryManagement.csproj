@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Adminlogin.aspx" />
     <Content Include="AuthorManagement.aspx" />
+    <Content Include="BookIssueReturnPage.aspx" />
     <Content Include="bootstrap\css\bootstrap-grid.css" />
     <Content Include="bootstrap\css\bootstrap-grid.min.css" />
     <Content Include="bootstrap\css\bootstrap-grid.rtl.css" />
@@ -2186,6 +2187,13 @@
     </Compile>
     <Compile Include="AuthorManagement.aspx.designer.cs">
       <DependentUpon>AuthorManagement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BookIssueReturnPage.aspx.cs">
+      <DependentUpon>BookIssueReturnPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BookIssueReturnPage.aspx.designer.cs">
+      <DependentUpon>BookIssueReturnPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Homepage.aspx.cs">
       <DependentUpon>Homepage.aspx</DependentUpon>
