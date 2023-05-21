@@ -2169,6 +2169,7 @@
     <Content Include="imgs\writer.png" />
     <Content Include="PublisherManagement.aspx" />
     <Content Include="Userlogin.aspx" />
+    <Content Include="UserManagementPage.aspx" />
     <Content Include="Userprofilepage.aspx" />
     <Content Include="Usersignup.aspx" />
     <Content Include="Web.config" />
@@ -2223,6 +2224,13 @@
     </Compile>
     <Compile Include="Userlogin.aspx.designer.cs">
       <DependentUpon>Userlogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserManagementPage.aspx.cs">
+      <DependentUpon>UserManagementPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserManagementPage.aspx.designer.cs">
+      <DependentUpon>UserManagementPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Userprofilepage.aspx.cs">
       <DependentUpon>Userprofilepage.aspx</DependentUpon>
