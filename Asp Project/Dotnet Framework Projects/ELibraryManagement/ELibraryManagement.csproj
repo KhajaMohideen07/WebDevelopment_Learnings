@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AdminBookInventory.aspx" />
     <Content Include="Adminlogin.aspx" />
     <Content Include="AuthorManagement.aspx" />
     <Content Include="BookIssueReturnPage.aspx" />
@@ -2175,6 +2176,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminBookInventory.aspx.cs">
+      <DependentUpon>AdminBookInventory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminBookInventory.aspx.designer.cs">
+      <DependentUpon>AdminBookInventory.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Adminlogin.aspx.cs">
       <DependentUpon>Adminlogin.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
