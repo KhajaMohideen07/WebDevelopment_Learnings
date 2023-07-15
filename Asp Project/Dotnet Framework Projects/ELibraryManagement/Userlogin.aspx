@@ -31,18 +31,17 @@
                             <div class="col">
                                 <label>Member ID</label>
                                 <div class="form-group">
-                                    <asp:TextBox CssClass="form-control" ID="TextBox1" runat="server" placeholder="Member ID"></asp:TextBox>
+                                    <asp:TextBox CssClass="form-control" ID="txtMemberId" runat="server" placeholder="Member ID"></asp:TextBox>
                                 </div>
                                 <label>Password</label>
                                 <div class="form-group">
-                                    <asp:TextBox CssClass="form-control" ID="TextBox2" runat="server" placeholder="Password" TextMode="Password"></asp:TextBox>
+                                    <asp:TextBox CssClass="form-control" ID="txtMemberPwd" runat="server" placeholder="Password" TextMode="Password"></asp:TextBox>
                                 </div>
                                 <br />
                                 <div class="d-grid gap-2">
-                                    <asp:Button class="btn btn-success w-100 btn-lg" ID="Button1" runat="server" Text="Login" />
+                                    <asp:Button class="btn btn-success w-100 btn-lg" ID="btnLogin" runat="server" Text="Login" />
                                         <a href="usersignup.aspx">
-                                        <input class="btn btn-info w-100 btn-lg" id="Button2" type="button" value="Sign Up" /></a>
-                               
+                                        <input class="btn btn-info w-100 btn-lg" id="btnSignUp" type="button" value="Sign Up" /></a>'
                                 </div>
                                 
                             </div>
