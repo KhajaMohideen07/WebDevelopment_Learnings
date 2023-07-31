@@ -1,0 +1,11 @@
+D:\Khaja\Corro\EMS_2_0\bin\Debug\EMS_2_0.exe.config
+D:\Khaja\Corro\EMS_2_0\bin\Debug\EMS_2_0.exe
+D:\Khaja\Corro\EMS_2_0\bin\Debug\EMS_2_0.pdb
+D:\Khaja\Corro\EMS_2_0\obj\Debug\EMS_2_0.csproj.AssemblyReference.cache
+D:\Khaja\Corro\EMS_2_0\obj\Debug\EMS_2_0.csproj.SuggestedBindingRedirects.cache
+D:\Khaja\Corro\EMS_2_0\obj\Debug\EMS_2_0.MainForm.resources
+D:\Khaja\Corro\EMS_2_0\obj\Debug\EMS_2_0.Properties.Resources.resources
+D:\Khaja\Corro\EMS_2_0\obj\Debug\EMS_2_0.csproj.GenerateResource.cache
+D:\Khaja\Corro\EMS_2_0\obj\Debug\EMS_2_0.csproj.CoreCompileInputs.cache
+D:\Khaja\Corro\EMS_2_0\obj\Debug\EMS_2_0.exe
+D:\Khaja\Corro\EMS_2_0\obj\Debug\EMS_2_0.pdb

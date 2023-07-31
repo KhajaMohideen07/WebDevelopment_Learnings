@@ -1,0 +1,171 @@
+c:\Me\VRCM\VRCM\bin\Debug\VRCM.exe.config
+c:\Me\VRCM\VRCM\bin\Debug\VRCM.exe
+c:\Me\VRCM\VRCM\bin\Debug\VRCM.pdb
+c:\Me\VRCM\VRCM\bin\Debug\VRCM.xml
+c:\Me\VRCM\VRCM\obj\Debug\VRCM.Communicator.resources
+c:\Me\VRCM\VRCM\obj\Debug\VRCM.Resources.resources
+c:\Me\VRCM\VRCM\obj\Debug\VRCM.vbproj.GenerateResource.Cache
+c:\Me\VRCM\VRCM\obj\Debug\VRCM.exe
+c:\Me\VRCM\VRCM\obj\Debug\VRCM.xml
+c:\Me\VRCM\VRCM\obj\Debug\VRCM.pdb
+c:\Me\VRCM\VRCM\bin\Debug\MySql.Data.dll
+c:\Me\VRCM\VRCM\bin\Debug\VRCM.exe.CodeAnalysisLog.xml
+c:\Me\VRCM\VRCM\bin\Debug\VRCM.exe.lastcodeanalysissucceeded
+c:\Me\VRCM\VRCM\obj\Debug\VRCM.loc.resources
+c:\Me\VRCM\VRCM\obj\Debug\VRCM.veeBOT.resources
+c:\Me\VRCM\VRCM\obj\Debug\VRCM.VisionIM.resources
+c:\Me\VRCM\VRCM\obj\Debug\VRCM.Messenger.resources
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\VRCM.exe.config
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\VRCM.exe.manifest
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\VRCM.application
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\VRCM.exe
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\VRCM.pdb
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\VRCM.xml
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\VRCM.exe.CodeAnalysisLog.xml
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\VRCM.exe.lastcodeanalysissucceeded
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\DnsClient.dll
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\MongoDB.Bson.dll
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\MongoDB.Driver.Core.dll
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\MongoDB.Driver.dll
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\System.Buffers.dll
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\DnsClient.xml
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\MongoDB.Bson.xml
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\MongoDB.Driver.xml
+C:\Me\MyProjects\VRCM\VRCM\bin\Debug\MongoDB.Driver.Core.xml
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.ActivityAssign.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.ActivityDetails.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.ActivityUpdate.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.ActivityCreate.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.analog_clock.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.AppProductivity.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.BreakView.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.Communicator.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.CurrentActivty.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.Downtime.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.FloorView.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.VisionIM.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.Form2.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.group_message.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.HeadCountUpload.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.loc.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.Messenger.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.Resources.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.production_Update.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.reporting_changes.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.User_Details.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.User_info.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.veeBOT.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.NativeMethods.resources
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.vbproj.GenerateResource.Cache
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.TrustInfo.xml
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.exe.manifest
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.application
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.exe
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.xml
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.pdb
+C:\Me\MyProjects\VRCM\VRCM\obj\Debug\VRCM.vbprojResolveAssemblyReference.cache
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\VRCM.exe.config
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\VRCM.exe.manifest
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\VRCM.application
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\VRCM.exe
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\VRCM.pdb
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\VRCM.xml
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\VRCM.exe.CodeAnalysisLog.xml
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\VRCM.exe.lastcodeanalysissucceeded
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\DnsClient.dll
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\MongoDB.Bson.dll
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\MongoDB.Driver.dll
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\System.Buffers.dll
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\DnsClient.xml
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\MongoDB.Bson.xml
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\MongoDB.Driver.xml
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.vbproj.AssemblyReference.cache
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.ActivityAssign.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.ActivityDetails.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.ActivityUpdate.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.ActivityCreate.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.analog_clock.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.AppProductivity.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.BreakView.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.Communicator.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.CurrentActivty.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.Downtime.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.FloorView.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.VisionIM.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.Form2.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.group_message.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.HeadCountUpload.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.loc.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.Messenger.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.Resources.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.production_Update.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.reporting_changes.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.User_Details.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.User_info.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.veeBOT.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.NativeMethods.resources
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.vbproj.GenerateResource.cache
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.vbproj.CoreCompileInputs.cache
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.TrustInfo.xml
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.exe.manifest
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.application
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.vbproj.CopyComplete
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.exe
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.xml
+C:\Users\KhajamohideenA\Desktop\Khaja\EMS\source code\EMS_lite\VRCM\obj\Debug\VRCM.pdb
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\VRCM.exe.config
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\VRCM.exe.manifest
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\VRCM.application
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\VRCM.exe
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\VRCM.pdb
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\VRCM.xml
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\VRCM.exe.CodeAnalysisLog.xml
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\VRCM.exe.lastcodeanalysissucceeded
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\DnsClient.dll
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\MongoDB.Bson.dll
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\MongoDB.Driver.Core.dll
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\MongoDB.Driver.dll
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\System.Buffers.dll
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\DnsClient.xml
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\MongoDB.Bson.xml
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\MongoDB.Driver.xml
+D:\Khaja\Corro\EMS_lite\VRCM\bin\Debug\MongoDB.Driver.Core.xml
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.vbproj.AssemblyReference.cache
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.vbproj.SuggestedBindingRedirects.cache
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.ActivityAssign.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.ActivityDetails.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.ActivityUpdate.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.ActivityCreate.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.analog_clock.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.AppProductivity.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.BreakView.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.Communicator.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.CurrentActivty.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.Downtime.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.FloorView.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.VisionIM.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.Form2.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.group_message.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.HeadCountUpload.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.loc.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.Messenger.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.Resources.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.production_Update.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.reporting_changes.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.User_Details.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.User_info.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.veeBOT.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.NativeMethods.resources
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.vbproj.GenerateResource.cache
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.vbproj.CoreCompileInputs.cache
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.TrustInfo.xml
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.exe.manifest
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.application
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.vbproj.CopyComplete
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.exe
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.xml
+D:\Khaja\Corro\EMS_lite\VRCM\obj\Debug\VRCM.pdb
